@@ -25,9 +25,9 @@ Basta executar os arquivos em um compilador Javascript
 
 ## Autor
 
-Leandro do Nascimento de Arruda 
-nascimentoarruda123@gmail.com  
-https://www.linkedin.com/in/leandro-arruda-26b8b11b3/
+- Leandro do Nascimento de Arruda 
+- nascimentoarruda123@gmail.com  
+- https://www.linkedin.com/in/leandro-arruda-26b8b11b3/
 
 
 ## Considerações Finais
